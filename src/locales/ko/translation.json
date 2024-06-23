@@ -1,0 +1,66 @@
+{
+  "common": {
+    "all": "모두",
+    "service": "서비스",
+    "readMore": "더 보기",
+    "project": "프로젝트",
+    "service-list": "천제 서비스 리스트",
+    "company": "회사명",
+    "pic": "담당자",
+    "phone": "연락처",
+    "email":"이메일",
+    "enquiry": "신청하기",
+    "loading": "loading",
+    "success": "문의해 주셔서 감사합니다"
+
+  },
+  "pageTitle": {
+    "aboutUs": "Epik",
+    "service": "서비스",
+    "contact": "서비스 문의"
+    
+  },
+  "home": {
+    "banner":{
+      "title": "비즈니스 성장을 위한 현대적인 솔루션을 제공합니다",
+      "description":"저희는 재능 있는 디자이너와 개발자들로 이뤄진 팀입니다"
+    },
+    "about": {
+      "who-we-are": "우리는 누구인가요?",
+      "title": "우귀사의 성장을 위한 혁신 솔루션에 헌신하는 팀",
+      "description-1": "우리는 기업의 성장을 위한 맞춤형 솔루션을 제공하며, 아웃소싱 서비스를 통해 비즈니스의 성공을 돕습니다.",
+      "check-1": "신뢰할 수 있는 파트너로서의",
+      "check-2": "창의적인 문제 해결 방안 제시",
+      "check-3": "지속 가능한 성장 전략 구축",
+      "check-4": "고객 맞춤형 서비스 제공",
+      "description-2": "   우리는 고객의 비즈니스가 시장에서 경쟁력을 갖출 수 있도록 최신 기술과 트렌드를 반영한 솔루션을 개발합니다. 또한, 고객과의 긴밀한 협력을 통해 브랜드 가치를 높이고, 비즈니스 목표 달성을 위한 전략적 파트너십을 구축합니다."
+    },
+    "service-title": "귀하의 비즈니스에 우리가 제공하는 것",
+    "service-chip": "서비스",
+    "work-process": "서비스 운영",
+    "work-process-chip": "", 
+    "projects-title": "성공 사례", 
+    "projects-chip": "포트폴리오",
+    "testimonials": "고객님의 소중한 의견",
+    "testimonials-chip": "고객 후기",
+    "footer": {
+    "address": "추소",
+    "phone": "연락처",
+    "email":"이메일"
+    },
+    "contact-title": "무료 상담 신청"
+    
+  },
+  "project": {
+    "client": "고객",
+    "category": "카테고리",
+    "date": "날짜",
+    "location": "위치",
+    "project-info": "프로젝트 정보",
+    "project-links": "프로젝트 링크",
+    "stacks": "기술 스택"
+  }
+ 
+  
+ 
+}

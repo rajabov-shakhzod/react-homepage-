@@ -1,0 +1,59 @@
+{
+  "common": {
+    "all": "All",
+    "service": "Service",
+    "readMore": "Read More",
+    "project": "Project",
+    "service-list": "List of All Services",
+    "company": "Company Name",
+    "pic": "PIC",
+    "phone": "Phone Number",
+    "email": "Email",
+    "enquiry": "Enquiry",
+    "loading": "loading",
+    "success": "Success. Thanks For Your Enquiry."
+  },
+  "pageTitle": {
+    "aboutUs": "Epik",
+    "service": "Services",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "banner": {
+      "title": "Providing Modern Solutions for Business Growth",
+      "description": "We are a team of talented designers and developers."
+    },
+    "about": {
+      "who-we-are": "Who We Are",
+      "title": "A Team Dedicated to Innovative Solutions for Your Business Growth",
+      "description-1": "We provide customized solutions for business growth and help businesses succeed through outsourcing services.",
+      "check-1": "As a reliable partner",
+      "check-2": "Offering creative problem-solving",
+      "check-3": "Building sustainable growth strategies",
+      "check-4": "Providing tailored services to clients",
+      "description-2": "We develop solutions that reflect the latest technologies and trends to help your business stay competitive in the market. We also build strategic partnerships with our clients through close collaboration to enhance brand value and achieve business goals."
+    },
+    "service-title": "What We Offer Your Business",
+    "service-chip": "Services",
+    "work-process": "Service Process",
+    "work-process-chip": "",
+    "projects-title": "Success Stories",
+    "projects-chip": "Portfolio",
+    "testimonials": "Valued Feedback from Our Clients",
+    "testimonials-chip": "Client Testimonials",
+    "footer": {
+      "address": "Address",
+      "phone": "Phone Number",
+      "email": "Email"
+    },
+    "contact-title": "Request a Free Consultation"
+  },
+  "project": {
+    "client": "Client",
+    "category": "Category",
+    "date": "Date",
+    "location": "Location",
+    "project-info": "Project Information"
+
+  }
+}
